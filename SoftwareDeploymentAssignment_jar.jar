@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="SoftwareDeploymentAssignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SoftwareDeploymentAssignment_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SoftwareDeploymentAssignment.jar">
+        <element id="module-output" name="SoftwareDeploymentAssignment" />
+      </element>
+    </root>
+  </artifact>
+</component>
